@@ -2,6 +2,16 @@ Hello my friendヽ( ^ω^ ゞ )
 
 My name is Xiao Di (Oh, that's certainly not my real name), allow me to introduce myself to you.(๑╹◡╹๑)
 
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
+YOUR TABLE
+
+</details>
+
+<details>
+</details>
+
 ### Study experience
 
 I'm a new one in programing, but I have great desires that are out of proportion to my strength (This seems a bit unrealistic, doesn't it?).
