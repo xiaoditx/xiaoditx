@@ -3,14 +3,7 @@ Hello my friendヽ( ^ω^ ゞ )
 My name is Xiao Di (Oh, that's certainly not my real name), allow me to introduce myself to you.(๑╹◡╹๑)
 
 <details>
-<summary>My top THINGS-TO-RANK</summary>
-
-YOUR TABLE
-
-</details>
-
-<details>
-</details>
+<summary>About me</summary>
 
 ### Study experience
 
@@ -36,4 +29,7 @@ Of course, the new goal also presented me with new challenges, and I had to thin
 ### Something else
 
 As you can see from the article above, I'm not good at English, so I am also strive for <font color=red>learning English</font>, also, I have great interest in learning mathematics, Especially the <font color=red>applied mathematics</font> involved in deep learning.
+
+</details>
+
 
