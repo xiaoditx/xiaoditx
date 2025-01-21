@@ -1,4 +1,6 @@
-Hello my friendヽ( ^ω^ ゞ )
+# Hello my friendヽ( ^ω^ ゞ )
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 My name is Xiao Di (Oh, that's certainly not my real name), allow me to introduce myself to you.(๑╹◡╹๑)
 
