@@ -7,7 +7,7 @@ My name is Xiao Di (Oh, that's certainly not my real name), allow me to introduc
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoditx&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoditx&layout=compact)
 <details>
-<summary>About me</summary>
+<summary><h3>About me<h3></summary>
 
 ### Study experience
 
@@ -35,6 +35,11 @@ Of course, the new goal also presented me with new challenges, and I had to thin
 As you can see from the article above, I'm not good at English, so I am also strive for <font color=red>learning English</font>, also, I have great interest in learning mathematics, Especially the <font color=red>applied mathematics</font> involved in deep learning.
 
 </details>
+
+# 在做的事情
+
+### 做游戏！《trick》开发中
+### 开发FreeOS——的准备工作
 
 ## 使用过的产品、接触过的品牌等（取占比高的）：
 
