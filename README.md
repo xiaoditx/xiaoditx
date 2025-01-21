@@ -1,16 +1,11 @@
 # Hello my friendヽ( ^ω^ ゞ )
-
 ![](https://komarev.com/ghpvc/?username=xiaoditx)
-
 My name is Xiao Di (Oh, that's certainly not my real name), allow me to introduce myself to you.(๑╹◡╹๑)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoditx&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoditx&layout=compact)
 <details>
 <summary><h3>About me<h3></summary>
-
 ### Study experience
-
 I'm a new one in programing, but I have great desires that are out of proportion to my strength (This seems a bit unrealistic, doesn't it?).
 
 In short, my programming learning process can be mainly divided into three stages：
