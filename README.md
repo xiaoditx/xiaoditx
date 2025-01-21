@@ -3,7 +3,7 @@ Hello my friendヽ( ^ω^ ゞ )
 My name is Xiao Di (Oh, that's certainly not my real name), allow me to introduce myself to you.(๑╹◡╹๑)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoditx&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoditx)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoditx&layout=compact)]
 <details>
 <summary>About me</summary>
 
