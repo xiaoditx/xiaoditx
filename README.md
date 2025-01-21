@@ -2,6 +2,8 @@ Hello my friendヽ( ^ω^ ゞ )
 
 My name is Xiao Di (Oh, that's certainly not my real name), allow me to introduce myself to you.(๑╹◡╹๑)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoditx)](https://github.com/anuraghazra/github-readme-stats)
+
 <details>
 <summary>About me</summary>
 
