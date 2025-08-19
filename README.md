@@ -1,7 +1,8 @@
 ### Hello my friend♡=•ㅅ＜=)
 
 ![](https://komarev.com/ghpvc/?username=xiaoditx)
-![License](https://img.shields.io/badge/Licenses-MIT%203,%20WTFPL%202,%20LGPL%201-blue)
+
+![License](https://img.shields.io/badge/Licenses-WTFPL-pink)
 
 My name is Xiao Di (emm,it's certainly not my real name…), please allow me to introduce myself to you.(๑╹◡╹๑)
 
